@@ -1,2 +1,2 @@
-alert("Hola mundo");
-alert("Editado...");
+alert("EIDTADO");
+console.log("cambios en el archivo");
